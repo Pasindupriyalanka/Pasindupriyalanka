@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasindu Priyalanka</h1>
-<h3 align="center">undergraduate of Horizon Campus.</h3>
+<h3 align="center">Undergraduate of Horizon Campus.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasindupriyalanka&label=Profile%20views&color=0e75b6&style=flat" alt="pasindupriyalanka" /> </p>
 
