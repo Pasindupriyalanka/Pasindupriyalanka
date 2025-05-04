@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://fb.com/pasindu priyalanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasindu priyalanka" height="30" width="40" /></a>
 <a href="https://www.instagram.com/__p_a_s_i__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_p_a_s_i" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/021/460/490/original/linkedin-logo-free-download-free-png.png" alt="Pasindu Priyalanka" height="60" width="40" /></a>
+<a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/021/460/490/original/linkedin-logo-free-download-free-png.png" alt="Pasindu Priyalanka" height="60" width="60" /></a>
 
 </p>
 
